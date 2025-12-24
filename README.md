@@ -1,61 +1,70 @@
-# 👋 Hi, I'm Ashiq Rahman Chowdhury
+# Ashiq Rahman Chowdhury
 
-AI Enthusiast | Aspiring AI Engineer | Business & Data-Oriented Thinker  
-📍 Bangladesh
+AI Industry Enthusiast | Aspiring AI Engineer  
+Business & Data-Oriented Professional  
+Location: Bangladesh
 
----
+--------------------------------------------------
 
-## 🧠 Professional Summary
-I am an AI-focused professional with a strong background in digital strategy and business analysis.  
-Currently transitioning deeply into the **Artificial Intelligence industry**, with a focus on learning, building, and applying AI-driven solutions to real-world problems.
+Professional_Overview:
+I am an AI-focused professional transitioning into the Artificial
+An intelligence industry with a strong foundation in business analysis
+and digital strategy.
 
-I believe in **practical learning, clean documentation, and continuous improvement**.
+My work philosophy is based on structured learning, clean
+documentation, real-world applicability, and ethical development of AI.
 
----
+--------------------------------------------------
 
-## 🔬 Areas of Interest
+Core_Focus_Areas:
 - Artificial Intelligence & Machine Learning
-- Data Analysis & Automation
-- Python for AI
-- AI-assisted Business Intelligence
-- Ethical & Responsible AI
+- Python for AI & Automation
+- Data Analysis & Visualization
+- AI-driven Business Intelligence
+- Ethical & Responsible AI Systems
 
----
+--------------------------------------------------
 
-## 🛠 Technical Skills
-- Python (for AI & Automation – Learning & Practicing)
+Technical_Competencies:
+- Python (AI & Automation | Actively Practicing)
 - Git & GitHub (Version Control)
-- Prompt Engineering (AI Interaction Optimization)
+- Prompt Engineering for AI Systems
 - Data & Business Analysis Fundamentals
-- Digital Strategy & Growth Analytics
+- Digital Strategy & Analytics
 
----
+--------------------------------------------------
 
-## 📚 Currently Learning
+Currently_Learning:
 - Python for Machine Learning
-- AI Engineering Roadmap
-- Data Handling & Visualization
-- Model Understanding (Supervised / Unsupervised Learning)
+- AI Engineering Foundations
+- Data Processing & Visualization
+- Machine Learning Models
+  (Supervised & Unsupervised)
 
----
+--------------------------------------------------
 
-## 📌 Career Objective
-To become a skilled **AI Engineer / AI Specialist** who can bridge the gap between  
-**business needs and intelligent systems**, creating scalable and ethical AI solutions.
+Career_Objective:
+To develop into a professional AI Engineer capable of designing
+intelligent systems that align with real-world business requirements
+while maintaining ethical, scalable, and responsible AI practices.
 
----
+--------------------------------------------------
 
-## 📂 Repository Philosophy
-All repositories reflect:
-- Structured learning
-- Clean & readable code
-- Real progress (no fake projects)
-- Industry-relevant concepts
+Repository_Standards:
+- Structured and progressive learning
+- Clean, readable, and well-documented code
+- Authentic work with measurable growth
+- Industry-aligned concepts and practices
 
----
+--------------------------------------------------
 
-## 🤝 Professional Values
+Professional_Values:
 - Continuous Learning
-- Transparency
+- Accountability & Transparency
 - Respectful Collaboration
-- Problem-Solving Mindset
+- Analytical Problem Solving
+
+--------------------------------------------------
+
+Status:
+AI Engineer in Progress
