@@ -1,4 +1,4 @@
-# Ashiq Rahman Chowdhury
+Ashiq Rahman Chowdhury
 
 AI Industry Enthusiast | Aspiring AI Engineer  
 Business & Data-Oriented Professional  
