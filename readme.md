@@ -1,7 +1,11 @@
 ## **Ashiq Rahman Chowdhury**
 AI Industry Enthusiast | Aspiring AI Engineer  
 Business & Data-Oriented Professional  
-Location: Uttara, Dhaka, Bangladesh
+Location: Uttara, Dhaka, Bangladesh  
+
+🔗 LinkedIn: https://linkedin.com/in/ashiqrahmanchowdhuryemon
+
+
 
 --------------------------------------------------
 
