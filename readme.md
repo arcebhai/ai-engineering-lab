@@ -1,7 +1,7 @@
 ## **Ashiq Rahman Chowdhury**
 AI Industry Enthusiast | Aspiring AI Engineer  
 Business & Data-Oriented Professional  
-Location: Bangladesh
+Location: Uttara, Dhaka, Bangladesh
 
 --------------------------------------------------
 
@@ -65,5 +65,5 @@ Professional_Values:
 
 --------------------------------------------------
 
-Status:
-AI Engineer in Progress
+🟢 Status: AI Engineer in Progress
+--
